@@ -103,3 +103,5 @@ modules/*
 .docs
 AGENTS.md
 CLAUDE.md
+
+.deploy-secrets/
